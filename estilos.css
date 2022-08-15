@@ -93,16 +93,17 @@ img{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    background-image: url(/imagenes/banner.jpg);
     
 }
 
-.webp .header{
+/* .webp .header{
     background-image: url(/imagenes/banner.webp);
 }
 
 .no-webp .header{
     background-image: url(/imagenes/banner.jpg);
-}
+} */
 
 
 .headerTexto{
