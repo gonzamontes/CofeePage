@@ -93,7 +93,7 @@ img{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(/imagenes/banner.jpg);
+    background-image: url(imagenes/banner.jpg);
     
 }
 
@@ -326,7 +326,7 @@ footer{
 }
 
 .contactoBg{
-    background-image: url(/imagenes/contacto.jpg);
+    background-image: url(imagenes/contacto.jpg);
     height: 40rem;
     background-size: cover;
     background-position: center;
